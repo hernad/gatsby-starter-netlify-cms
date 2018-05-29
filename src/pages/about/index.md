@@ -1,8 +1,7 @@
 ---
-templateKey: 'about-page'
-path: /about
+templateKey: about-page
 title: About hernad
 ---
 ### hernad test
-test
 
+test
